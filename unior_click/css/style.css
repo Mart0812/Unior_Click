@@ -26,7 +26,7 @@ body {
 }
 
 header { /*selettore di elemento che individua e applica uno stile all'elemento HTML header*/
-    background-image: url('/images/sfondo.jpeg ');
+    background-image: url('../images/sfondo.jpeg'); /*cioè esci dalla cartella attuale (..) ed entra nella cartella images e prendi il file sfondo.jpeg*/
     background-size: cover;  /*l'immagine copre l'intero spazio, anche se ciò comporta l'allungamneto o il taglio della stessa*/
     background-position: center;
     text-align:left;
