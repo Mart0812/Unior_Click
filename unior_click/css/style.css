@@ -21,7 +21,7 @@ body {
 
 @keyframes gradientbackground {
     0% { background-position: 0 50%; }  /*definisce l'elemento all'inizio dell'animazione*/
-    50% { background-position: 100% 50%; }    /*          //               a metà        (estrema destra) */
+    50% { background-position: 100% 50%; }  /*          //               a metà        (estrema destra) */
     100% { background-position: 0 50%; }  /*              //              alla fine       (ritorna della posizione inziale) */
 }
 
