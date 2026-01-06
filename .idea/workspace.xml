@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a72295a0-d1b4-4b4f-9178-4b1bbaa3bf45" name="Changes" comment="Ho iniziato ad impostare lo stile della pagina. Concentrandomi sullo sfondo, overlayscuro e il logo">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unior_click/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/unior_click/css/style.css" afterDir="false" />
+    <list default="true" id="a72295a0-d1b4-4b4f-9178-4b1bbaa3bf45" name="Changes" comment="ho aggiunto l'intestazione dell'html">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,31 +121,7 @@
       <option name="project" value="LOCAL" />
       <updated>1767694273582</updated>
     </task>
-    <task id="LOCAL-00007" summary="ho aggiunto l'intestazione dell'html">
-      <option name="closed" value="true" />
-      <created>1767699687592</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1767699687593</updated>
-    </task>
-    <task id="LOCAL-00008" summary="ho aggiunto l'intestazione dell'html">
-      <option name="closed" value="true" />
-      <created>1767700045315</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1767700045315</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Ho iniziato ad impostare lo stile della pagina. Concentrandomi sullo sfondo, overlayscuro e il logo">
-      <option name="closed" value="true" />
-      <created>1767700190272</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1767700190272</updated>
-    </task>
-    <option name="localTasksCounter" value="10" />
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,7 +130,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="aggiunto titolo" />
     <MESSAGE value="ho aggiunto l'intestazione dell'html" />
-    <MESSAGE value="Ho iniziato ad impostare lo stile della pagina. Concentrandomi sullo sfondo, overlayscuro e il logo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ho iniziato ad impostare lo stile della pagina. Concentrandomi sullo sfondo, overlayscuro e il logo" />
+    <option name="LAST_COMMIT_MESSAGE" value="ho aggiunto l'intestazione dell'html" />
   </component>
 </project>
